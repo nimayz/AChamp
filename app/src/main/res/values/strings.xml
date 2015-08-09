@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AChamp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <color name="LIGHT_BLUE">#00f2ff</color>
+    <color name="BLACK">#000000</color>
+    <color name="PINK">#ff007f</color>
+    <color name="WHITE">#ffffff</color>
+    <color name="GRAY">#d3d3d3</color>
+</resources>
