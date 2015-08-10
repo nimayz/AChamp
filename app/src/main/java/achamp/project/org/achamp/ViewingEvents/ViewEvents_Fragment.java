@@ -84,6 +84,7 @@ public class ViewEvents_Fragment extends Fragment {
             throw new ClassCastException(activity.toString()
                     + " must implement OnFragmentInteractionListener");
         }
+
     }
 
     @Override
